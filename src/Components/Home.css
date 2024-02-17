@@ -1,0 +1,33 @@
+.img {
+  width: 100%;
+}
+
+.name {
+  position: absolute;
+  top: 38%;
+  left: 10%;
+  font-size: 60px;
+  font-weight: 700;
+  letter-spacing: 2px;
+}
+
+.about {
+  position: absolute;
+  top: 51%;
+  left: 12%;
+  font-size: 21px;
+  font-weight: 500;
+}
+
+.buttons {
+  position: absolute;
+  top: 58%;
+  left: 15%;
+  /* font-size: 21px; */
+}
+
+.btn {
+  background-color: rgb(131, 208, 242);
+  font-size: 20px;
+  border-radius: 20px;
+}

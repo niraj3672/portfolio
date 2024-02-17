@@ -1,0 +1,22 @@
+.container1 {
+  background-color: antiquewhite;
+  padding-top: 60px;
+}
+
+.resumeitem {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  margin-left: 50px;
+}
+
+.resumetitle1 {
+  padding-top: 30px;
+}
+
+.resumetitle2 {
+  padding-top: 15px;
+  font-size: 20px;
+}

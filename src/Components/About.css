@@ -1,0 +1,38 @@
+.aboutme {
+  background-color: rgb(200, 197, 194);
+  height: 695px;
+}
+
+.heading {
+  padding-top: 65px;
+  font-size: 50px;
+  font-weight: 600;
+}
+
+.heading1 {
+  padding-top: 20px;
+  font-size: 25px;
+  font-weight: 600;
+}
+
+.content {
+  padding-top: 15px;
+  font-size: 15px;
+}
+
+.n {
+  color: red;
+}
+
+.detelis {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 55px;
+}
+
+li {
+  list-style-type: none;
+  margin-top: 10px;
+  text-align: start;
+  margin-left: 27%;
+}
