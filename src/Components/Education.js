@@ -15,7 +15,7 @@ function Education() {
           <h4>NIRAJ PATEL</h4>
           <ul>
             <li>Kadi,Gujrat,India</li>
-            <li>+91 9426578027</li>
+            <li>+91 9016312382</li>
             <li>patelniraj3000@gmail.com</li>
           </ul>
           <h4 className="resumetitle1">* Education</h4>
